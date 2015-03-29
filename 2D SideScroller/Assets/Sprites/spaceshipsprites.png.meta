@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: efb8be67e1e089f419cec074295eb628
+timeCreated: 1427658874
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spaceshipsprites_0
+    21300002: spaceshipsprites_1
+    21300004: spaceshipsprites_2
+    21300006: spaceshipsprites_3
+    21300008: spaceshipsprites_4
+    21300010: spaceshipsprites_5
+    21300012: spaceshipsprites_6
+    21300014: spaceshipsprites_7
+    21300016: spaceshipsprites_8
+    21300018: spaceshipsprites_9
+    21300020: spaceshipsprites_10
+    21300022: spaceshipsprites_11
+    21300024: spaceshipsprites_12
+    21300026: spaceshipsprites_13
+    21300028: spaceshipsprites_14
+    21300030: spaceshipsprites_15
+    21300032: spaceshipsprites_16
+    21300034: spaceshipsprites_17
+    21300036: spaceshipsprites_18
+    21300038: spaceshipsprites_19
+    21300040: spaceshipsprites_20
+    21300042: spaceshipsprites_21
+    21300044: spaceshipsprites_22
+    21300046: spaceshipsprites_24
+    21300048: spaceshipsprites_25
+    21300050: spaceshipsprites_26
+    21300052: spaceshipsprites_27
+    21300054: spaceshipsprites_28
+    21300056: spaceshipsprites_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spaceshipsprites_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 83
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceshipsprites_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 37
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceshipsprites_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

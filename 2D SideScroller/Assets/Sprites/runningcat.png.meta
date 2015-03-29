@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 4604523c3dd0ab14cba8db07a43be47e
+timeCreated: 1427650431
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: runningcat_0
+    21300002: runningcat_1
+    21300004: runningcat_2
+    21300006: runningcat_3
+    21300008: runningcat_4
+    21300010: runningcat_5
+    21300012: runningcat_6
+    21300014: runningcat_7
+    21300016: runningcat_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: runningcat_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1056
+        width: 491
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningcat_1
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1059
+        width: 408
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningcat_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 800
+        width: 403
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningcat_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 834
+        width: 381
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningcat_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 564
+        width: 390
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningcat_5
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 544
+        width: 400
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningcat_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 293
+        width: 439
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningcat_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 292
+        width: 477
+        height: 201
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: runningcat_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 429
+        height: 271
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
